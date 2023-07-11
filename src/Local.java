@@ -1,5 +1,6 @@
 public class Local {
 
+
     public void Math3(){
         int num1 = 4;
         int num2 = 7;
